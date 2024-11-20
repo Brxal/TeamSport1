@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <WebView
+        android:id="@+id/pdfWebView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_alignParentTop="true"
+        android:layout_above="@+id/buttonLayout"/>
+
+    <LinearLayout
+        android:id="@+id/buttonLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/backToMenuButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/fuentebinoto"
+            android:backgroundTint="@color/dd"
+            android:layout_weight="1"
+            android:text="Regresar al Menú"/>
+
+        <Button
+            android:id="@+id/loadAnotherPdfButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/fuentebinoto"
+            android:backgroundTint="@color/dd"
+            android:layout_weight="1"
+            android:text="Cargar otro PDF"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

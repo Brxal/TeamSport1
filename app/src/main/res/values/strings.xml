@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">D&amp;D Tielf</string>
+    <string name="campanas">Campañas</string>
+    <string name="notas_dm">Notas DM</string>
+    <string name="personajes">Personajes</string>
+    <string name="notas_pj">Notas PJ</string>
+
+
+    <string name="prefs_file">com.alexquispe.ddtielf.PREFERENCES</string>
+
+    <string name="default_web_client_id">your-web-client-id</string>
+
+
+    //perosnajes
+
+    <string name="create_character_title">Crear Personaje</string>
+    <string name="character_name_hint">Nombre del personaje</string>
+    <string name="character_description_hint">Descripción del personaje</string>
+    <string name="save_character_button">Guardar Personaje</string>
+    <string name="character_name_label">Nombre:</string>
+    <string name="character_race_label">Raza:</string>
+    <string name="character_description_label">Descripción:</string>
+
+</resources>

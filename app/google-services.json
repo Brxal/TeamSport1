@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141414883675",
+    "project_id": "registros-de-usuario-c25a7",
+    "storage_bucket": "registros-de-usuario-c25a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141414883675:android:6990288609c9808b6a7a7e",
+        "android_client_info": {
+          "package_name": "com.alexquispe.ddtielf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141414883675-pon12maauae67c4qr6niscbtq4daus84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw8vPc27cteZlpsXfiQ9zZwN5ooQkQBis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141414883675-pon12maauae67c4qr6niscbtq4daus84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
